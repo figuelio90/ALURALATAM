@@ -10,7 +10,7 @@ CHALLENGE
 - Git push
 - Entre otros
 
-###FUNCIONES UTILIZADAS
+FUNCIONES UTILIZADAS
 
 
 Agregar amigos 
