@@ -1,6 +1,3 @@
-
-
-
 // SE AÑADE UN NOMBRE A LA LISTA DE AMIGOS A SORTEAR
 let amigos = [];
 
