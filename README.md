@@ -1,6 +1,6 @@
 # ALURALATAM
 CHALLENGE
-:### PROJECTO MI AMIGO SECRETO 
+### PROJECTO MI AMIGO SECRETO 
 ![](https://itconnect.lat/portal/wp-content/uploads/2023/03/Oracle-Next-Education--e1678304093153.png)
 ### Comando de Git usados 
 - Git init
