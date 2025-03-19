@@ -11,7 +11,9 @@ CHALLENGE
 - Entre otros
 
 ###FUNCIONES UTILIZADAS
-####Agregar amigos 
+
+
+Agregar amigos 
 
 ```javascript
 let amigos = [];
@@ -31,7 +33,7 @@ function agregarAmigo() {
     mostrarAmigsort();
 }
 ```
-####Mostrar Amigos 
+Mostrar Amigos 
 ```javascript
 function mostrarAmigsort() {
     let ListAmig = document.getElementById('listaAmigos');
@@ -44,7 +46,7 @@ function mostrarAmigsort() {
     });
 }
 ```
-####Sortear Amigos 
+Sortear Amigos 
 ```javascript
 function sortearAmigo() {
     if (amigos.length === 0) {
